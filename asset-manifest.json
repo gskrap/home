@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.690463af.chunk.css",
+    "main.js": "/static/js/main.fa4ae2f8.chunk.js",
+    "main.js.map": "/static/js/main.fa4ae2f8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.85791974.js",
+    "runtime-main.js.map": "/static/js/runtime-main.85791974.js.map",
+    "static/css/2.3fad095e.chunk.css": "/static/css/2.3fad095e.chunk.css",
+    "static/js/2.d6ce5847.chunk.js": "/static/js/2.d6ce5847.chunk.js",
+    "static/js/2.d6ce5847.chunk.js.map": "/static/js/2.d6ce5847.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f96663a6a5f512ee80b278bb63c0b992.js": "/precache-manifest.f96663a6a5f512ee80b278bb63c0b992.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3fad095e.chunk.css.map": "/static/css/2.3fad095e.chunk.css.map",
+    "static/css/main.690463af.chunk.css.map": "/static/css/main.690463af.chunk.css.map",
+    "static/js/2.d6ce5847.chunk.js.LICENSE": "/static/js/2.d6ce5847.chunk.js.LICENSE",
+    "static/media/App.css": "/static/media/TerminalVector.b896bc34.ttf",
+    "static/media/Snake.css": "/static/media/apple.626bb66c.png",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/resume.pdf": "/static/media/resume.7e986a02.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85791974.js",
+    "static/css/2.3fad095e.chunk.css",
+    "static/js/2.d6ce5847.chunk.js",
+    "static/css/main.690463af.chunk.css",
+    "static/js/main.fa4ae2f8.chunk.js"
+  ]
+}
