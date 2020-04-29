@@ -34,7 +34,8 @@ class BoxContentAbout extends React.Component {
           delayMap={this.delays()}
           typing={1}
           onTypingEnd={() => {this.continueTyping("typing2")}}>
-          Full-Stack Engineer @ JPMorgan Asset MGMT<br/><br/><br/>
+          Engineer @ Attentive<br/>
+          <a href={'https://attentivemobile.com'}>attentivemobile.com</a><br/><br/>
         </TypeWriter>
         <div className="cols-2">
           <div className="left">
@@ -48,8 +49,8 @@ class BoxContentAbout extends React.Component {
               - Mobile<br/>
               - Desktop<br/><br/>
               Using tools like:<br/>
-              - Angular<br/>
               - React<br/>
+              - Angular<br/>
               - Ionic<br/><br/>
               And:<br/>
               - Spring<br/>
