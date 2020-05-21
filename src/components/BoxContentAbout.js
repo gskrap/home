@@ -35,7 +35,7 @@ class BoxContentAbout extends React.Component {
           typing={1}
           onTypingEnd={() => {this.continueTyping("typing2")}}>
           Engineer @ Attentive<br/>
-          <a href={'https://attentivemobile.com'}>attentivemobile.com</a><br/><br/>
+          <a href={'https://attentivemobile.com'} target='_blank'>attentivemobile.com</a><br/><br/>
         </TypeWriter>
         <div className="cols-2">
           <div className="left">
